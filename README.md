@@ -1,8 +1,8 @@
+<!--
 Hye 👋
 
 💞️ I’m looking to collaborate on Github & other social media
 
-<!--
 - 👋 Hi, I’m @Phenoix-1294
 - 👀 I’m interested in
 - 🌱 I’m currently learning ...
